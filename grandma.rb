@@ -1,13 +1,13 @@
-speak_to_grandma = "I love you grandma!".upcase
+speak_to_grandma = "I LOVE YOU GRANDMA!".upcase
 
-if speak_to_grandma == "I love you grandma!".upcase
-  puts "I love you too pumpkin!".upcase
+if speak_to_grandma == "I LOVE YOU GRANDMA!".upcase
+  puts "I LOVE YOU TOO PUMPKIN!".upcase
 elsif speak_to_grandma == "Hi Nana, how are you?"
-  puts "Huh?! Speak up, sonny!".upcase
+  puts "HUH?! SPEAK UP, SONNY!".upcase
 elsif speak_to_grandma == "Hi!"
-  puts "Huh?! Speak up, sony!".upcase
-elsif speak_to_grandma == "What did you eat today?".upcase
-  puts "No, not since 1938!".upcase
-else speak_to_grandma == "What?".upcase
-  puts "No, not since 1938!".upcase
+  puts "HUH?! SPEAK UP, SONNY!".upcase
+elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?".upcase
+  puts "NO, NOT SINCE 1938!".upcase
+else speak_to_grandma == "WHAT?".upcase
+  puts "NO, NOT SINCE 1938!".upcase
 end
