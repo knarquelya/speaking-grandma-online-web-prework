@@ -11,4 +11,3 @@ elsif speak_to_grandma == "What did you eat today?".upcase
 else speak_to_grandma == "What?".upcase
   puts "No, not since 1938!!".upcase
 end
-
